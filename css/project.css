@@ -20,6 +20,7 @@
     height: 14.75rem;
     right:360px;
     top:50px;
+    left: -320px;
   }
   .tabs::before,
   .tabs::after {
