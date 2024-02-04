@@ -1,0 +1,15 @@
+.team_img img{
+    width: 100%;
+    height: 200px;
+}
+.team_img{
+    width: 200px;
+}
+.row{
+    justify-content: center;
+}
+.member{
+    color: #fff;
+    text-align: center;
+    margin: 48px;
+}

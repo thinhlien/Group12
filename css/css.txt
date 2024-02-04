@@ -1,0 +1,858 @@
+/* Frame 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 52px;
+top: 307px;
+
+border: 1px solid #000000;
+
+
+/* Line 5 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 52px;
+top: 402px;
+
+border: 1px solid #000000;
+
+
+/* Line 6 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 52px;
+top: 497px;
+
+border: 1px solid #000000;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 52px;
+top: 585px;
+
+border: 1px solid #000000;
+
+
+/* Line 8 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 52px;
+top: 678px;
+
+border: 1px solid #000000;
+
+
+/* Line 9 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 52px;
+top: 774px;
+
+border: 1px solid #000000;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 643px;
+height: 0px;
+left: 301px;
+top: 204px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 3 */
+
+position: absolute;
+width: 643px;
+height: 0px;
+left: 669px;
+top: 204px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 4 */
+
+position: absolute;
+width: 643px;
+height: 0px;
+left: 1037px;
+top: 218px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Tên thành viên */
+
+position: absolute;
+width: 190px;
+height: 67px;
+left: 87px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Đóng góp Web Group */
+
+position: absolute;
+width: 270px;
+height: 67px;
+left: 350px;
+top: 218px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Đóng góp Web Project */
+
+position: absolute;
+width: 281px;
+height: 67px;
+left: 715px;
+top: 218px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Đánh giá */
+
+position: absolute;
+width: 190px;
+height: 67px;
+left: 1096px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Lâm Bảo Duy */
+
+position: absolute;
+width: 192px;
+height: 42px;
+left: 79px;
+top: 343px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Liên Văn Thịnh */
+
+position: absolute;
+width: 192px;
+height: 42px;
+left: 79px;
+top: 431px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Trịnh Quang Thông */
+
+position: absolute;
+width: 213px;
+height: 42px;
+left: 79px;
+top: 519px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Lê Tấn Thành */
+
+position: absolute;
+width: 192px;
+height: 42px;
+left: 79px;
+top: 607px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Hán Hữu Trung */
+
+position: absolute;
+width: 192px;
+height: 42px;
+left: 79px;
+top: 695px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Home About */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 - 220.5px);
+top: 325px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group Diary */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 - 227.5px);
+top: 425px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Cake, Header */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 + 128.5px);
+top: 320px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 180px;
+height: 84px;
+left: 1060px;
+top: 312px;
+
+
+
+/* Điểm đánh giá: 4,5/5 */
+
+position: absolute;
+width: 180px;
+height: 28px;
+left: calc(50% - 180px/2 + 430px);
+top: 312px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Hoàn thành: 100% */
+
+position: absolute;
+width: 153px;
+height: 28px;
+left: calc(50% - 153px/2 + 416.5px);
+top: 340px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Đóng góp: 0% */
+
+position: absolute;
+width: 165px;
+height: 28px;
+left: calc(50% - 165px/2 + 422.5px);
+top: 368px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 180px;
+height: 84px;
+left: 1060px;
+top: 408px;
+
+
+
+/* Điểm đánh giá: 4,5/5 */
+
+position: absolute;
+width: 180px;
+height: 28px;
+left: calc(50% - 180px/2 + 430px);
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Hoàn thành: 100% */
+
+position: absolute;
+width: 153px;
+height: 28px;
+left: calc(50% - 153px/2 + 416.5px);
+top: 436px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Đóng góp: 0% */
+
+position: absolute;
+width: 165px;
+height: 28px;
+left: calc(50% - 165px/2 + 422.5px);
+top: 464px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 180px;
+height: 84px;
+left: 1060px;
+top: 501px;
+
+
+
+/* Điểm đánh giá: 4,5/5 */
+
+position: absolute;
+width: 180px;
+height: 28px;
+left: calc(50% - 180px/2 + 430px);
+top: 501px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Hoàn thành: 100% */
+
+position: absolute;
+width: 153px;
+height: 28px;
+left: calc(50% - 153px/2 + 416.5px);
+top: 529px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Đóng góp: 0% */
+
+position: absolute;
+width: 165px;
+height: 28px;
+left: calc(50% - 165px/2 + 422.5px);
+top: 557px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 180px;
+height: 84px;
+left: 1060px;
+top: 590px;
+
+
+
+/* Điểm đánh giá: 4,5/5 */
+
+position: absolute;
+width: 180px;
+height: 28px;
+left: calc(50% - 180px/2 + 430px);
+top: 590px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Hoàn thành: 100% */
+
+position: absolute;
+width: 153px;
+height: 28px;
+left: calc(50% - 153px/2 + 416.5px);
+top: 618px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Đóng góp: 0% */
+
+position: absolute;
+width: 165px;
+height: 28px;
+left: calc(50% - 165px/2 + 422.5px);
+top: 646px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 180px;
+height: 84px;
+left: 1060px;
+top: 684px;
+
+
+
+/* Điểm đánh giá: 4,5/5 */
+
+position: absolute;
+width: 180px;
+height: 28px;
+left: calc(50% - 180px/2 + 430px);
+top: 684px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Hoàn thành: 100% */
+
+position: absolute;
+width: 153px;
+height: 28px;
+left: calc(50% - 153px/2 + 416.5px);
+top: 712px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Đóng góp: 0% */
+
+position: absolute;
+width: 165px;
+height: 28px;
+left: calc(50% - 165px/2 + 422.5px);
+top: 740px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #494848;
+
+
+
+/* Cake, Footer */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 + 140.5px);
+top: 434px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Project */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 - 227.5px);
+top: 504px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* About */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 + 140.5px);
+top: 597px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 + 140.5px);
+top: 689px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blogs */
+
+position: absolute;
+width: 323px;
+height: 71px;
+left: calc(50% - 323px/2 + 140.5px);
+top: 505px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Technical */
+
+position: absolute;
+width: 246px;
+height: 36px;
+left: 374px;
+top: 613px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Style Guide */
+
+position: absolute;
+width: 231px;
+height: 48px;
+left: 376px;
+top: 701px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1103px;
+height: 333px;
+
+background: #D9D9D9;
